@@ -25,8 +25,8 @@ A simple vista, la web té quatre pàgines principals:
 - **Home** (`/index.php`): pàgina d'inici on es pot escoltar una cançó i ser *trol·lejat* pensant que pots penjar un fitxer.
 - **Upload** (`/upload.php`): pàgina on realment pots penjar un fitxer.
 - **Folder** (`/uploads/`): llistat de fitxers pujats. N'hi ha dos:
-    - `LogicaProposicions.pdf`: PDF molt avorrit on pots aprendre lògica de proposicions (bombardeen UdG).
-    - `parthenoun_shell.php`: arxiu PHP que te pinta a bomba nuclear. Està protegit sota una contrassenya.
+    - `LogicaProposicions.pdf`: PDF molt avorrit on pots aprendre lògica de proposicions (bombardeen UdG).
+    - `parthenoun_shell.php`: arxiu PHP que te pinta a bomba nuclear. Està protegit sota una contrassenya.
 - **Login** (`/login.php`): pàgina per logginar-se. Hi ha dos usuaris disponibles amb les seves respectives contrassenyes: **Admin** i **pepe**.
 
 ## Reconeixement
